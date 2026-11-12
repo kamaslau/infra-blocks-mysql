@@ -28,7 +28,7 @@ Defaults are for local use only.
 
 ```bash
 # Initiate .env file
-cp .env.sample .env
+cp .env.example .env
 # Start services
 docker compose up -d
 ```
